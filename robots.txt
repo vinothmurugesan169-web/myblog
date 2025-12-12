@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vinothmurugesan169-web.github.io/sitemap.xml
