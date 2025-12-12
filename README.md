@@ -36,10 +36,5 @@ The blog explains how beginners can start gaming easily with simple tips.
 ## 🚀 Live Demo
 Add your GitHub Pages link here:
 
-👉 **https://yourusername.github.io/myblog/**
-
----
-
-## 📸 Screenshot (Optional)
-You can upload a screenshot of your blog page:
+👉 **https://vinothmurugesan169-web.github.io/myblog/**
 
